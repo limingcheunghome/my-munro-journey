@@ -14,7 +14,7 @@
 | Completion number | 12 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Sau Lin-James |
+| Companions | Sau Lin, James |
 
 ---
 

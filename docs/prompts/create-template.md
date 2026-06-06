@@ -8,7 +8,7 @@ It should include:
 - Completion number (chronological order, e.g. 1 for first completed)
 - Weather
 - Rating
-- Companions
+- Companions (comma separated list of individuals and case insensitive)
 - Notes
 - A small "moment" section
 - Placeholders for summit and route photos

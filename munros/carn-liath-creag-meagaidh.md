@@ -14,7 +14,7 @@
 | Completion number | 59 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | — |
+| Companions | Darryl |
 
 ---
 

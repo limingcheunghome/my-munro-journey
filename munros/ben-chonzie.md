@@ -14,7 +14,7 @@
 | Completion number | 17 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Darryl Tom |
+| Companions | Darryl, Tom |
 
 ---
 

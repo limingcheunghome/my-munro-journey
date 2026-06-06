@@ -14,7 +14,7 @@
 | Completion number | 52 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Tom Stuart |
+| Companions | Tom, Stuart |
 
 ---
 

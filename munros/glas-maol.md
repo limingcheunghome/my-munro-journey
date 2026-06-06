@@ -14,7 +14,7 @@
 | Completion number | 7 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Rosie-Carley-Eilidh |
+| Companions | Rosie, Carley, Eilidh |
 
 ---
 

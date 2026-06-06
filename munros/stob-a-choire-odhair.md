@@ -14,7 +14,7 @@
 | Completion number | 57 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Morag Zara Naomi |
+| Companions | Morag, Zara, Naomi |
 
 ---
 

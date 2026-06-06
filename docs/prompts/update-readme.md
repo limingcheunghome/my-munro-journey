@@ -19,6 +19,15 @@ This prompt is only the operational contract for computing the dashboard content
    - map `<munro-id>` to `friendly-name` in `munro-reference.csv`
    - extract from the Munro file: completion number, date completed, rating, companions
 
+## Companion Ranking Rules
+
+1. Build companion counts from all completed Munro files.
+2. Split companions using commas (`,`), trim surrounding whitespace, and treat names case-insensitively for counting.
+3. Ignore `solo` in any letter case.
+4. Use tie-aware ranking for the top 3 ranks:
+   - include all companions tied at rank 3
+   - companions with equal counts share the same rank number
+
 ## README Output Contract
 
 1. Progress line must be: `Completed: <count> / 282`.
@@ -34,3 +43,7 @@ This prompt is only the operational contract for computing the dashboard content
 5. Sort table rows by completion number descending.
 6. If there are no completed Munros, keep one placeholder row of dashes.
 7. Keep formatting clean and easy to maintain manually.
+8. Include a `Top 3 Companion Ranks (Tie-Aware)` section with a Markdown table using columns in this order:
+   - `Rank`
+   - `Companion`
+   - `Appearances`

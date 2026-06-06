@@ -14,7 +14,7 @@
 | Completion number | 11 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Darryl-Bug-Daniel |
+| Companions | Darryl, Bug, Daniel |
 
 ---
 

@@ -14,7 +14,7 @@
 | Completion number | 15 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Rosie and pals |
+| Companions | Rosie, and pals |
 
 ---
 

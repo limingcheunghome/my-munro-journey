@@ -78,6 +78,17 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ---
 
+## Top 3 Companion Ranks (Tie-Aware)
+
+| Rank | Companion | Appearances |
+|---|---|---|
+| 1 | Darryl | 14 |
+| 2 | JohnW | 11 |
+| 3 | Rosie | 7 |
+| 3 | Stuart | 7 |
+
+---
+
 ## Remaining Munros
 
 221 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.

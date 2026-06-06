@@ -14,7 +14,7 @@
 | Completion number | 50 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Stuart Naomi |
+| Companions | Stuart, Naomi |
 
 ---
 

@@ -102,6 +102,9 @@ images/
 - Total Munros completed (e.g. 12 / 282)
 - Table of completed Munros with completion number (use `#` for brevity), name, date completed, and rating.
 - In the completed Munros table, the Munro name should link to its detail file at `munros/<munro-id>.md`.
+- List out the top 3 companion ranks based on who has appeared the most in all `munros/<munro-id>.md` files under companions.
+- Use tie-aware ranking: if multiple companions share the same count at rank 3, include all of them with rank 3.
+- Rules to identify a unique companion: individuals are in the comma-separated list, names are case-insensitive, ignore `solo` (any case).
 
 Completion in the table is based on whether a file exists under `munros/`.
 

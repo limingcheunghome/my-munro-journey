@@ -14,7 +14,7 @@
 | Completion number | 28 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Rosie et al |
+| Companions | Rosie,  et al |
 
 ---
 

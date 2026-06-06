@@ -14,7 +14,7 @@
 | Completion number | 4 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | Richard-AndrewM |
+| Companions | Richard, AndrewM |
 
 ---
 

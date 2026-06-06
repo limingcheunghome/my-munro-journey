@@ -14,7 +14,7 @@
 | Completion number | 34 |
 | Weather | <conditions> |
 | Rating | <x> / 10 |
-| Companions | John W |
+| Companions | JohnW |
 
 ---
 

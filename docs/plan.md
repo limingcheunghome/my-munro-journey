@@ -115,9 +115,10 @@ This can initially be manual and improved later. Eventually, it can be driven by
 ## Future Enhancements (Optional)
 
 - Generate README summary automatically
-- Maintain a JSON index of Munros
-- Add simple stats (e.g. average rating, yearly progress)
-- Add map or location data
+- Maintain a JSON index of Munros - is this easier to work with than .md files
+- Add health stats per munro - Garmin Fitt files
+- Add map or location data from Garmin e.g. .gpx
+- Add other derived information like number completed each year, add time completed
 
 ---
 

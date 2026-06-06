@@ -1,6 +1,6 @@
 # Càrn Liath (Creag Meagaidh)
 
-> must come back to finish ridge minus snow
+> Psalm 18: The heavens declare the glory of God...
 
 ![Summit photo](../images/carn-liath-creag-meagaidh/summit.jpg)
 
@@ -13,14 +13,19 @@
 | Date completed | 2026-05-09 |
 | Completion number | 59 |
 | Weather | <conditions> |
-| Rating | <x> / 10 |
+| Rating | 9 / 10 |
 | Companions | Darryl |
 
 ---
 
 ## Notes
 
-<Personal reflections>
+* determined to do first one of season asap!
+* overnight stay in Pitlochry Hydro to make sure i don't bail out easily - had to pick up lunch from bakery which was actually quite nice! Change from my usual M&S!
+* spectacular ridge on top but no time to do the circuit really
+* so nice to have time to stroll on ridge (wide++) before coming back down! Bliss...
+* plan to come back clockwise to start at the steep corrie - maybe
+* steep start and coming down - slow but do'able
 
 ---
 

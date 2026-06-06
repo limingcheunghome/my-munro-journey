@@ -119,6 +119,7 @@ This can initially be manual and improved later. Eventually, it can be driven by
 - Add health stats per munro - Garmin Fitt files
 - Add map or location data from Garmin e.g. .gpx
 - Add other derived information like number completed each year, add time completed
+- consider how this information can be made private and password protected
 
 ---
 

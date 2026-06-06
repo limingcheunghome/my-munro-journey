@@ -12,21 +12,23 @@
 |-------|-------|
 | Date completed | 2025-08-02 |
 | Completion number | 58 |
-| Weather | <conditions> |
-| Rating | <x> / 10 |
-| Companions | Stuart |
+| Weather | sunny |
+| Rating | 10 / 10 |
+| Companions | Stuart, Dominique |
 
 ---
 
 ## Notes
 
-<Personal reflections>
+* vast, open space - priceless
+* chill time at top - deciding to come back next year to do the final Beinn a Ghlo!
+* dodge students? - stayed safe
 
 ---
 
 ## The Moment
 
-<A short moment from the day>
+I love the hills but so happy for Dominique to have had the super-hill-joy moment!
 
 ---
 

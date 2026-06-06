@@ -7,6 +7,7 @@ The focus is on:
 - Recording each completion
 - Capturing both big moments (summits) and small moments (reflections)
 - Keeping the system lightweight and easy to maintain
+- it should be easy to edit which is why markdown is chosen
 
 ---
 
@@ -120,6 +121,8 @@ This can initially be manual and improved later. Eventually, it can be driven by
 - Add map or location data from Garmin e.g. .gpx
 - Add other derived information like number completed each year, add time completed
 - consider how this information can be made private and password protected
+- create list of Munros i will definitely not do like an-stuc
+- consider GitHub actions to update readme summary
 
 ---
 

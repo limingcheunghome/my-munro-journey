@@ -1,6 +1,6 @@
 # An Socach (Braemar)
 
-> not as near death but...
+> nice quiet space with dicey moments...
 
 ![Summit photo](../images/an-socach-braemar/summit.jpg)
 
@@ -12,16 +12,20 @@
 |-------|-------|
 | Date completed | 2026-05-23 |
 | Completion number | 61 |
-| Weather | <conditions> |
-| Rating | <x> / 10 |
+| Weather | sun/cloud |
+| Rating | 7 / 10 |
 | Companions | solo |
 
 ---
 
 ## Notes
 
-<Personal reflections>
-
+* forecast was wind but decided to go anyway
+* overnighter in Blairgowrie outskirts attic flat - nice dinner and granola breakfast to set me up
+* oh so steep coming down - thankfully did not slide uncontrollably on my backside on the heather .. not as near death as the last one though
+* quiet moment in valley listening to the river and the rain on my waterproof - then the birds!
+* saw lovely hare at end in valley
+* wind wasn't so bad in the end .. slightly blowy and glad of the cairn shelter for a spot of lunch but nothing to unsteady things
 ---
 
 ## The Moment

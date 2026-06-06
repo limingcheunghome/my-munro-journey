@@ -12,7 +12,7 @@
 |-------|-------|
 | Date completed | 2026-05-09 |
 | Completion number | 59 |
-| Weather | <conditions> |
+| Weather | sun, cloud, snow! |
 | Rating | 9 / 10 |
 | Companions | Darryl |
 

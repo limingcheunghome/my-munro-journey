@@ -6,11 +6,13 @@ const path = require('node:path');
 const ROOT_DIR = path.resolve(__dirname, '..');
 const README_PATH = path.join(ROOT_DIR, 'README.md');
 const DERIVED_COMPLETED_EXPORT_PATH = path.join(ROOT_DIR, 'completed-munros.derived.json');
+const IMAGES_DIR = path.join(ROOT_DIR, 'images');
 const MUNRO_REFERENCE_PATH = path.join(ROOT_DIR, 'munro-reference.csv');
 const MUNROS_DIR = path.join(ROOT_DIR, 'munros');
 const TEMPLATE_PATH = path.join(MUNROS_DIR, 'template.md');
 const TOTAL_MUNROS = 282;
 const TEMPLATE_FILE_NAME = 'template.md';
+const IMAGE_DIRECTORY_README_CONTENT = 'Add images here.\n';
 
 function main() {
   const [, , command = 'rebuild', ...rest] = process.argv;
@@ -80,9 +82,15 @@ function addMunro(args) {
   }
 
   const targetPath = path.join(MUNROS_DIR, `${munroId}.md`);
+  const targetImagesDir = path.join(IMAGES_DIR, munroId);
+  const targetImagesReadmePath = path.join(targetImagesDir, 'README.md');
 
   if (fs.existsSync(targetPath)) {
     throw new Error(`Munro record already exists: munros/${munroId}.md`);
+  }
+
+  if (fs.existsSync(targetImagesDir)) {
+    throw new Error(`Image directory already exists: images/${munroId}`);
   }
 
   const completionNumber = listCompletedRecordFileNames().length + 1;
@@ -97,6 +105,8 @@ function addMunro(args) {
     .replace('| Companions | <names> |', `| Companions | ${companions} |`);
 
   fs.writeFileSync(targetPath, recordContent, 'utf8');
+  fs.mkdirSync(targetImagesDir, { recursive: true });
+  fs.writeFileSync(targetImagesReadmePath, IMAGE_DIRECTORY_README_CONTENT, 'utf8');
   rebuildOutputs();
 }
 

@@ -117,6 +117,7 @@ This can initially be manual and improved later. Eventually, it can be driven by
 
 - Generate README summary automatically
 - Maintain a JSON index of Munros - is this easier to work with than .md files
+- If a JSON export exists, keep it clearly derived from `munros/*.md` rather than treating it as a source of truth
 - Add health stats per munro - Garmin Fitt files
 - Add map or location data from Garmin e.g. .gpx
 - Add other derived information like number completed each year, add time completed

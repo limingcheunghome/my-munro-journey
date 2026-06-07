@@ -1,0 +1,49 @@
+name: Rebuild Munro Generated Files
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: Optional note for why the rebuild was triggered
+        required: false
+        default: Manual rebuild after source file changes
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  rebuild-munro-generated-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Rebuild generated files
+        run: npm run munro:rebuild
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Rebuild Munro generated files"
+          branch: automation/rebuild-munro-generated-files-${{ github.run_id }}
+          delete-branch: true
+          title: "Rebuild Munro generated files"
+          body: |
+            This PR was created automatically from the Rebuild Munro Generated Files workflow.
+
+            Reason:
+
+            ${{ inputs.reason }}
+
+            Updated outputs:
+
+            - Rebuilt `completed-munros.derived.json` (derived export)
+            - Rebuilt `README.md`

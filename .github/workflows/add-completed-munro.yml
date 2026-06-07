@@ -1,0 +1,71 @@
+name: Add Completed Munro
+
+on:
+  workflow_dispatch:
+    inputs:
+      munro_id:
+        description: Munro id from munro-reference.csv
+        required: true
+        type: string
+      date_completed:
+        description: Completion date in YYYY-MM-DD format
+        required: true
+        type: string
+      companions:
+        description: Comma-separated companions list
+        required: true
+        type: string
+      rating:
+        description: Rating from 1 to 10
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  add-completed-munro:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate Munro updates
+        run: >-
+          npm run munro:add --
+          --munro-id "${{ inputs.munro_id }}"
+          --date-completed "${{ inputs.date_completed }}"
+          --companions "${{ inputs.companions }}"
+          --rating "${{ inputs.rating }}"
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Add completed Munro ${{ inputs.munro_id }}"
+          branch: automation/add-munro-${{ inputs.munro_id }}-${{ github.run_id }}
+          delete-branch: true
+          title: "Add completed Munro: ${{ inputs.munro_id }}"
+          body: |
+            This PR was created automatically from the Add Completed Munro workflow.
+
+            Inputs used:
+
+            | Field | Value |
+            |---|---|
+            | Munro id | `${{ inputs.munro_id }}` |
+            | Date completed | `${{ inputs.date_completed }}` |
+            | Companions | `${{ inputs.companions }}` |
+            | Rating | `${{ inputs.rating }}` |
+
+            Updated outputs:
+
+            - Added the Munro record under `munros/`
+            - Rebuilt `completed-munros.derived.json` (derived export)
+            - Rebuilt `README.md`

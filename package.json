@@ -1,0 +1,8 @@
+{
+  "name": "my-munro-journey",
+  "private": true,
+  "scripts": {
+    "munro:add": "node scripts/update-munro.js add",
+    "munro:rebuild": "node scripts/update-munro.js rebuild"
+  }
+}

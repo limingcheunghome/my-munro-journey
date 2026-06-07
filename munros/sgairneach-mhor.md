@@ -12,9 +12,9 @@
 |-------|-------|
 | Date completed | 2025-04-05 |
 | Completion number | 49 |
-| Weather | <conditions> |
-| Rating | <x> / 10 |
-| Companions | ? |
+| Weather | sunny coldish |
+| Rating | 8 / 10 |
+| Companions | Darryl |
 
 ---
 

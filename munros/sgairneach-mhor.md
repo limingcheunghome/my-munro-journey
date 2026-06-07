@@ -20,7 +20,9 @@
 
 ## Notes
 
-<Personal reflections>
+* first of the season
+* last minute probably with apathy
+* reminded again of why i do this!! Hill tops make me forget the ascent ordeal. Always!
 
 ---
 

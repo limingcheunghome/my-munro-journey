@@ -31,7 +31,7 @@
 
 ## The Moment
 
-Amazing first for 2026 - star day reminding me why I love the hills!
+Amazing first for 2026 - star day reminding me why I love the hills! Sun and graupel snow (Darryl fun-fact of the day)
 
 ---
 

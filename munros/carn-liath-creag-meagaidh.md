@@ -31,7 +31,7 @@
 
 ## The Moment
 
-<A short moment from the day>
+Amazing first for 2026 - star day reminding me why I love the hills!
 
 ---
 

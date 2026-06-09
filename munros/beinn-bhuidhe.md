@@ -31,7 +31,7 @@
 
 ## The Moment
 
-<A short moment from the day>
+Passed a life death moment with Stuart 
 
 ---
 

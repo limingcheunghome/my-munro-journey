@@ -21,8 +21,10 @@
 ## Notes
 
 * vast, open space - priceless
-* chill time at top - deciding to come back next year to do the final Beinn a Ghlo!
+* long chill time at top - deciding to come back next year to do the final Beinn a Ghlo! - must go more loitering 
 * dodge students? - stayed safe
+* stats messed up: Garmin considered speed too slow to be worth tracking
+* completed the day with a nice Vietnamese in town
 
 ---
 

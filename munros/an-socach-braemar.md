@@ -30,8 +30,7 @@
 
 ## The Moment
 
-<A short moment from the day>
-
+There is something special about a solo hike
 ---
 
 ## Photos

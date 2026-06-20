@@ -23,6 +23,8 @@
 * first of the season
 * last minute probably with apathy
 * reminded again of why i do this!! Hill tops make me forget the ascent ordeal. Always!
+* too many at the summit - lunching first on the side
+* a munro discovered after tagging in Beinn Udlamain!
 
 ---
 

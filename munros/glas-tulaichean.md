@@ -2,8 +2,7 @@
 
 > Munro #62 completed on 2026-05-20
 
-![Summit photo](../images/glas-tulaichean/summit.jpg)
-
+![Summit photo](../images/glas-tulaichean/20260620_130634.jpg)
 ---
 
 ## Details
@@ -41,6 +40,6 @@ Fords, Summit lunches, red squirrels - amazing day .. too many moments!
 
 ### Route
 
-![Route photo](../images/glas-tulaichean/route1.jpg)
+![Route photo](../images/glas-tulaichean/Screenshot_20260620_231728_Garmin Connect.jpg)
 
-![Route photo](../images/glas-tulaichean/route2.jpg)
+![Route photo](../images/glas-tulaichean/images/glas-tulaichean/Screenshot_20260620_232641_Runkeeper.jpg)

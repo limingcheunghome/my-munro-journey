@@ -1,9 +1,18 @@
 {
   "generatedFrom": "munros/*.md",
-  "generatedAt": "2026-06-07T00:27:15.659Z",
-  "completedCount": 61,
+  "generatedAt": "2026-06-20T21:53:08.156Z",
+  "completedCount": 62,
   "totalMunros": 282,
   "completedMunros": [
+    {
+      "number": 62,
+      "name": "Glas Tulaichean",
+      "slug": "glas-tulaichean",
+      "recordPath": "munros/glas-tulaichean.md",
+      "dateCompleted": "2026-05-20",
+      "rating": 9,
+      "companionsText": "Darryl"
+    },
     {
       "number": 61,
       "name": "An Socach (Braemar)",
@@ -118,8 +127,8 @@
       "slug": "sgairneach-mhor",
       "recordPath": "munros/sgairneach-mhor.md",
       "dateCompleted": "2025-04-05",
-      "rating": null,
-      "companionsText": "?"
+      "rating": 8,
+      "companionsText": "Darryl"
     },
     {
       "number": 48,

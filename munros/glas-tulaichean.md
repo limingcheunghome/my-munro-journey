@@ -1,6 +1,6 @@
 # Glas Tulaichean
 
-> Munro #62 completed on 2026-05-20
+> Best lunch spots reflecting on fording activities
 
 ![Summit photo](../images/glas-tulaichean/20260620_130634.jpg)
 ---

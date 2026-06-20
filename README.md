@@ -6,9 +6,9 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ## Progress
 
-**Completed: 61 / 282**
+**Completed: 62 / 282**
 
-**Remaining: 282 - 61 = 221**
+**Remaining: 282 - 62 = 220**
 
 ---
 
@@ -16,6 +16,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 | # | Munro | Date | Rating | Companions |
 |---|---|---|---|---|
+| 62 | [Glas Tulaichean](munros/glas-tulaichean.md) | 2026-05-20 | 9 / 10 | Darryl |
 | 61 | [An Socach (Braemar)](munros/an-socach-braemar.md) | 2026-05-23 | 7 / 10 | solo |
 | 60 | [Beinn Bhuidhe](munros/beinn-bhuidhe.md) | 2026-05-16 | 6 / 10 | Stuart |
 | 59 | [Càrn Liath (Creag Meagaidh)](munros/carn-liath-creag-meagaidh.md) | 2026-05-09 | 9 / 10 | Darryl |
@@ -28,7 +29,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 | 52 | [Beinn Chabhair](munros/beinn-chabhair.md) | 2025-05-17 | — | Tom, Stuart |
 | 51 | [Stùcd an Lochain](munros/stuchd-an-lochain.md) | 2025-05-03 | — | Darryl |
 | 50 | [Càrn a' Chlamain](munros/carn-a-chlamain.md) | 2025-04-12 | — | Stuart, Naomi |
-| 49 | [Sgàirneach Mhòr](munros/sgairneach-mhor.md) | 2025-04-05 | — | ? |
+| 49 | [Sgàirneach Mhòr](munros/sgairneach-mhor.md) | 2025-04-05 | 8 / 10 | Darryl |
 | 48 | [Beinn Udlamain](munros/beinn-udlamain.md) | 2024-09-21 | — | Tom |
 | 47 | [A' Mharconaich](munros/a-mharconaich.md) | 2024-09-21 | — | Tom |
 | 46 | [An Caisteal](munros/an-caisteal.md) | 2024-06-24 | — | Darryl |
@@ -84,7 +85,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 | Rank | Companion | Appearances |
 |---|---|---|
-| 1 | Darryl | 14 |
+| 1 | Darryl | 16 |
 | 2 | JohnW | 11 |
 | 3 | Rosie | 7 |
 | 3 | Stuart | 7 |
@@ -93,7 +94,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ## Remaining Munros
 
-221 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.
+220 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.
 
 ---
 

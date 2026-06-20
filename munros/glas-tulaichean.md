@@ -41,4 +41,6 @@ Fords, Summit lunches, red squirrels - amazing day .. too many moments!
 
 ### Route
 
-![Route photo](../images/glas-tulaichean/route.jpg)
+![Route photo](../images/glas-tulaichean/route1.jpg)
+
+![Route photo](../images/glas-tulaichean/route2.jpg)

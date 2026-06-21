@@ -1,6 +1,6 @@
 # Glas Tulaichean
 
-> Best lunch spots reflecting on fording activities
+> a day of many lovely things
 
 ![Summit photo](../images/glas-tulaichean/20260620_130634.jpg)
 ---

@@ -1,4 +1,4 @@
-id,friendly-name
+id,friendly-name,decision
 a-bhuidheanach-bheag,A' Bhuidheanach Bheag
 a-chailleach,A' Chailleach (Fannichs)
 a-chailleach-monadhliath,A' Chailleach (Monadhliath)
@@ -89,8 +89,8 @@ bidean-nam-bian,Bidean nam Bian
 bidein-a-choire-sheasgaich,Bidein a' Choire Sheasgaich
 bidein-a-ghlas-thuill-an-teallach,Bidein a' Ghlas Thuill (An Teallach)
 binnein-beag,Binnein Beag
-binnein-mor,Binnein Mòr
-bla-bheinn,Blà Bheinn
+binnein-mor,Binnein Mòr,vertigo
+bla-bheinn,Blà Bheinn,scree
 braeriach,Braeriach
 braigh-coire-chruinn-bhalgain,Bràigh Coire Chruinn-bhalgain
 broad-cairn,Broad Cairn

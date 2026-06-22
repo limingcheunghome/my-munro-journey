@@ -1,0 +1,36 @@
+Subject: Request retrieva of certification associated with old email work account that I no longer have access to
+
+I sat my AWS associate solutions architect exam under a work email but cannot access this email anymore as I have left tthe org.  
+
+It was completed under Pearson Vue. The details are:
+
+Candidate ID: AWS02415485  
+Work email at the time: Liming.Cheung@nhs.scot  
+Date exam sat: Wed, 09/02/2022 @14:00  
+Location: Glasgow Clyde College, Cardonald Campus  
+
+Ultimately I would like to get access to my old certification.
+
+I do have an AWS account which I have access to is under so the certification can be transfered here if possible:
+
+skillbuilder account email liming.cheung@gmail.com  
+
+Note I have been on the support pages and the recommendation was to create a support ticket (see below copied from support automated response:
+
+I understand you're unable to access your AWS Certification Account because your work email is no longer available after leaving your organization, and you'd like to access your certification using your personal email instead. 
+
+Since you don't have access to the email address associated with your original certification account, you'll need assistance to consolidate your accounts. Here's what you should do: 
+
+Create a support case and provide the following information: 
+
+All email addresses associated with your AWS Certification accounts 
+
+Your AWS Candidate ID(s) for each account 
+
+Confirmation of which account you wish to retain (your personal email account) 
+
+A specialist will review your case and assist with merging your accounts so you can access your AWS Solutions Architect Associate certification through your personal email. 
+
+For more information about account merging, visit: https://aws.amazon.com/certification/ 
+
+Once your accounts are consolidated, you'll be able to manage your certifications through a single email address going forward. 

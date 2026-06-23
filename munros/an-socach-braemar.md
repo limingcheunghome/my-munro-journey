@@ -23,6 +23,7 @@
 * forecast was wind but decided to go anyway
 * overnighter in Blairgowrie outskirts attic flat - nice dinner and granola breakfast to set me up
 * oh so steep coming down - thankfully did not slide uncontrollably on my backside on the heather .. not as near death as the last one though
+* the steep section up and coming down knocking my nerves definitely affected the final Munro score.. despite the shapely hill top view
 * quiet moment in valley listening to the river and the rain on my waterproof - then the birds!
 * saw lovely hare at end in valley
 * wind wasn't so bad in the end .. slightly blowy and glad of the cairn shelter for a spot of lunch but nothing to unsteady things

@@ -12,7 +12,7 @@
 |-------|-------|
 | Date completed | 2026-07-14 |
 | Completion number | 63 |
-| Weather | <conditions> |
+| Weather | hot and sunny |
 | Rating | 6 / 10 |
 | Companions | Darryl |
 
@@ -20,13 +20,29 @@
 
 ## Notes
 
-<Personal reflections>
+After much pondering - considering hours available and the heat - it was decided that Creag Meggaidh be aborted in favour of a closer and boggier walk to Beinn Dubhcraig. Given the semi-heatwave, the bogs would hopefully be dried up!
+
+An overnighter in Callander - bright early start following light granola/Kefir brekkie.
+I forgot my flask of tea sat on kitchen bench! 😢
+
+Clammy, buggy ~~woods~~ jungle - just about held onto consciousness.
+Narrow path dropping into chasm of ferns.
+
+Spectacular 360 at the top - found a lovely spot out of the wind - just perfect. 
+Looking towards Loch Lomond - the view just opened on the summit!
+Bit of exploration to Ben Oss to check future feasibility.. maybe .. maybe not...
+
+Return felt bit more boggy but got lovely relieve with a cooldown feet dip in the river.
+.. in preparation for knee high bog incident, near miss off the afore-mentioned chasm of ferns edge
+
+At summit point - this was 8/10 .. eventually dropping down to 6.
+Not sure will be back for Ben Oss...
 
 ---
 
 ## The Moment
 
-<A short moment from the day>
+A heroic day of adventures - undeniable good summit and jaunt towards Ben Oss
 
 ---
 

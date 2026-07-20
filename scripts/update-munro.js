@@ -138,19 +138,34 @@ function rebuildOutputs() {
 function readReferenceMap() {
   const csv = fs.readFileSync(MUNRO_REFERENCE_PATH, 'utf8');
   const lines = csv.split(/\r?\n/).filter(Boolean);
-  const rows = lines.slice(1);
+
+  if (lines.length === 0) {
+    return new Map();
+  }
+
+  const headerFields = lines[0].split(',').map((field) => field.trim());
+  const idIndex = headerFields.indexOf('id');
+  const nameIndex = headerFields.indexOf('friendly-name');
+
+  if (idIndex < 0 || nameIndex < 0) {
+    throw new Error(`Invalid header in ${MUNRO_REFERENCE_PATH}. Expected columns: id,friendly-name`);
+  }
+
   const map = new Map();
 
-  for (const row of rows) {
-    const separatorIndex = row.indexOf(',');
+  for (const row of lines.slice(1)) {
+    const columns = row.split(',').map((column) => column.trim());
 
-    if (separatorIndex < 0) {
+    if (columns.length <= Math.max(idIndex, nameIndex)) {
       continue;
     }
 
-    const id = row.slice(0, separatorIndex).trim();
-    const friendlyName = row.slice(separatorIndex + 1).trim();
-    map.set(id, friendlyName);
+    const id = columns[idIndex];
+    const friendlyName = columns[nameIndex];
+
+    if (id && friendlyName) {
+      map.set(id, friendlyName);
+    }
   }
 
   return map;

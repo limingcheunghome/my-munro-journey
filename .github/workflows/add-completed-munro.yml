@@ -48,6 +48,7 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Add completed Munro ${{ inputs.munro_id }}"
           branch: automation/add-munro-${{ inputs.munro_id }}-${{ github.run_id }}
           delete-branch: true

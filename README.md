@@ -6,9 +6,9 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ## Progress
 
-**Completed: 62 / 282**
+**Completed: 63 / 282**
 
-**Remaining: 282 - 62 = 220**
+**Remaining: 282 - 63 = 219**
 
 ---
 
@@ -16,6 +16,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 | # | Munro | Date | Rating | Companions |
 |---|---|---|---|---|
+| 63 | [Beinn Dubhchraig](munros/beinn-dubhchraig.md) | 2026-07-14 | 6 / 10 | Darryl |
 | 62 | [Glas Tulaichean](munros/glas-tulaichean.md) | 2026-05-20 | 9 / 10 | Darryl |
 | 61 | [An Socach (Braemar)](munros/an-socach-braemar.md) | 2026-05-23 | 7 / 10 | solo |
 | 60 | [Beinn Bhuidhe](munros/beinn-bhuidhe.md) | 2026-05-16 | 6 / 10 | Stuart |
@@ -85,7 +86,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 | Rank | Companion | Appearances |
 |---|---|---|
-| 1 | Darryl | 16 |
+| 1 | Darryl | 17 |
 | 2 | JohnW | 11 |
 | 3 | Rosie | 7 |
 | 3 | Stuart | 7 |
@@ -94,7 +95,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ## Remaining Munros
 
-220 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.
+219 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.
 
 ---
 

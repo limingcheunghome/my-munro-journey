@@ -1,9 +1,18 @@
 {
   "generatedFrom": "munros/*.md",
-  "generatedAt": "2026-06-20T21:53:08.156Z",
-  "completedCount": 62,
+  "generatedAt": "2026-07-20T23:43:21.506Z",
+  "completedCount": 63,
   "totalMunros": 282,
   "completedMunros": [
+    {
+      "number": 63,
+      "name": "Beinn Dubhchraig",
+      "slug": "beinn-dubhchraig",
+      "recordPath": "munros/beinn-dubhchraig.md",
+      "dateCompleted": "2026-07-14",
+      "rating": 6,
+      "companionsText": "Darryl"
+    },
     {
       "number": 62,
       "name": "Glas Tulaichean",

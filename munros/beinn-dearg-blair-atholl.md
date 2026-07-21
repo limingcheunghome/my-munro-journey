@@ -1,6 +1,6 @@
 # Beinn Dearg (Blair Atholl)
 
-> Munro #64 completed on 2026-07-18
+> longest walk ever with planned in lunch 1, 2, 3 ..
 
 ![Summit photo](../images/beinn-dearg-blair-atholl/summit.jpg)
 
@@ -12,7 +12,7 @@
 |-------|-------|
 | Date completed | 2026-07-18 |
 | Completion number | 64 |
-| Weather | <conditions> |
+| Weather | sunny, hot, spitting, cloudy |
 | Rating | 7 / 10 |
 | Companions | Stuart |
 
@@ -20,13 +20,17 @@
 
 ## Notes
 
-<Personal reflections>
+* longest walk ever
+* unhappy knees..
+* chosen for the civilised notion of a path after the previous drama
+* first glove/fleece/waterproof in a while amidst the Scottish heatwave
+* Cairngorm fires - seen some darker, unusually drifting clouds
 
 ---
 
 ## The Moment
 
-<A short moment from the day>
+Heather is in! Sillhouetted ranges are in! Thankful I can still do 18+ mile walk! :pray:
 
 ---
 

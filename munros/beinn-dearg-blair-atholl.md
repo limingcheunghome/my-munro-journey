@@ -36,6 +36,17 @@ Sillhouetted ranges are in!
 
 Thankful I can still do 18+ mile walk! :pray:
 
+```
+Shout to the Lord, all the earth let us sing
+Power and majesty, praise to the King
+Mountains bow down and the seas will roar
+At the sound of your name
+I sing for joy at the work of Your hands
+Forever I'll love you, forever I'll stand
+Nothing compares to the promise I have
+In You
+```
+
 ---
 
 ## Photos

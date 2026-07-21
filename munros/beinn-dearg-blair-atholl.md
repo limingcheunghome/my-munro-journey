@@ -60,3 +60,5 @@ In You
 ![shadows photo](../images/beinn-dearg-blair-atholl/summit2.jpg)
 
 ![lunch photo](../images/beinn-dearg-blair-atholl/lunch-1.jpg)
+
+![heather photo](../images/beinn-dearg-blair-atholl/heather.jpg)

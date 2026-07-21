@@ -1,9 +1,18 @@
 {
   "generatedFrom": "munros/*.md",
-  "generatedAt": "2026-07-20T23:43:21.506Z",
-  "completedCount": 63,
+  "generatedAt": "2026-07-20T23:49:17.793Z",
+  "completedCount": 64,
   "totalMunros": 282,
   "completedMunros": [
+    {
+      "number": 64,
+      "name": "Beinn Dearg (Blair Atholl)",
+      "slug": "beinn-dearg-blair-atholl",
+      "recordPath": "munros/beinn-dearg-blair-atholl.md",
+      "dateCompleted": "2026-07-18",
+      "rating": 7,
+      "companionsText": "Stuart"
+    },
     {
       "number": 63,
       "name": "Beinn Dubhchraig",

@@ -1,6 +1,6 @@
 # Beinn Dubhchraig,tbd
 
-> Munro #63 completed on 2026-07-14
+> feeling heroic - loose rock path, vertical drops, sunny bogs - but summit moments and first river dip!
 
 ![Summit photo](../images/beinn-dubhchraig/summit.jpg)
 
@@ -37,6 +37,9 @@ Return felt bit more boggy but got lovely relieve with a cooldown feet dip in th
 
 At summit point - this was 8/10 .. eventually dropping down to 6.
 Not sure will be back for Ben Oss...
+
+Lesson 1: make checklist so not to forget tea!
+Lesson 2: no more bog factor 4 pathless walks
 
 ---
 

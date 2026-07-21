@@ -1,6 +1,6 @@
 # Beinn Dubhchraig,tbd
 
-> pretty but hard - how heroic!
+> pretty and hard - but how heroic!
 
 ![Summit photo](../images/beinn-dubhchraig/summit.jpg)
 

@@ -1,4 +1,4 @@
-# Beinn Dubhchraig,tbd
+# Beinn Dubhchraig
 
 > pretty and hard - but how heroic!
 

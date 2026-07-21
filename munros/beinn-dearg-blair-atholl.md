@@ -30,7 +30,11 @@
 
 ## The Moment
 
-Heather is in! Sillhouetted ranges are in! Thankful I can still do 18+ mile walk! :pray:
+Heather is in! 
+
+Sillhouetted ranges are in! 
+
+Thankful I can still do 18+ mile walk! :pray:
 
 ---
 
@@ -39,3 +43,9 @@ Heather is in! Sillhouetted ranges are in! Thankful I can still do 18+ mile walk
 ### Route
 
 ![Route photo](../images/beinn-dearg-blair-atholl/route.jpg)
+
+### Highlights
+
+![shadows photo](../images/beinn-dearg-blair-atholl/summit2.jpg)
+
+![lunch photo](../images/beinn-dearg-blair-atholl/lunch-1.jpg)

@@ -1,6 +1,6 @@
 # Beinn Dubhchraig,tbd
 
-> feeling heroic - loose rock path, vertical drops, sunny bogs - but summit moments and first river dip!
+> pretty but hard - how heroic!
 
 ![Summit photo](../images/beinn-dubhchraig/summit.jpg)
 
@@ -45,7 +45,9 @@ Lesson 2: no more bog factor 4 pathless walks
 
 ## The Moment
 
-A heroic day of adventures - undeniable good summit and jaunt towards Ben Oss
+Heatstroke, bogs, rubble.
+
+Pretty rocks, spectacular Ben Lui, calm Loch Lomond, summit lochans.
 
 ---
 
@@ -53,4 +55,12 @@ A heroic day of adventures - undeniable good summit and jaunt towards Ben Oss
 
 ### Route
 
-![Route photo](../images/beinn-dubhchraig/route.jpg)
+![Route photo](../images/beinn-dubhchraig/route.png)
+
+### Highlights
+
+![Route photo](../images/beinn-dubhchraig/jungle.jpg)
+![Route photo](../images/beinn-dubhchraig/rocks.jpg)
+![Route photo](../images/beinn-dubhchraig/silhouette.jpg)
+![Route photo](../images/beinn-dubhchraig/summit2.jpg)
+![Route photo](../images/beinn-dubhchraig/summit3.jpg)

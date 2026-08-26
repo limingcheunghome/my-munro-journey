@@ -39,6 +39,11 @@ A comprehensive, chronological itinerary of your curated Fringe shows for this S
 * **Genre:** Contemporary Theatre
 * **Synopsis:** A thought-provoking and dynamic performance exploring human connection, community ties, and invisible boundaries.
 
+### 🕒 17:00 | Caitriona Dowden: Sesh Head
+* **Venue:** PBH's Free Fringe
+* **Genre:** Musical Stand-up
+* **Synopsis:** Deadpan, clever storytelling combining comedy and a live harp to explore Irish folklore and family history.
+
 ### 🕒 17:20 - 18:30 | Showstopper! The Improvised Musical
 * **Venue:** Festival Main Venue
 * **Genre:** Improvised Musical Comedy
@@ -55,7 +60,7 @@ A comprehensive, chronological itinerary of your curated Fringe shows for this S
 * **Genre:** Dark Comedy
 * **Synopsis:** ai with heartfelt, darkly comic exploration of memory, forgiveness and the human experience
 
-### 🕒 18:30 - 19:30 | Larry Dean
+### 🕒 18:30 - 19:30 | ~~Larry Dean~~ Fully booked
 * **Venue:** Pleasance Courtyard
 * **Genre:** Stand-up Comedy
 * **Synopsis:** High-energy, cheerful, and stellar storytelling about marriage and a humorous refusal to grow up.
@@ -74,8 +79,3 @@ A comprehensive, chronological itinerary of your curated Fringe shows for this S
 * **Venue:** Pleasance Courtyard
 * **Genre:** Experimental Comedy
 * **Synopsis:** A minimalist, highly interactive show where the audience helps co-create a whimsical and unique mental landscape.
-
-### 🕒 Time TBC | Caitriona Dowden: Sesh Head
-* **Venue:** PBH's Free Fringe
-* **Genre:** Musical Stand-up
-* **Synopsis:** Deadpan, clever storytelling combining comedy and a live harp to explore Irish folklore and family history.

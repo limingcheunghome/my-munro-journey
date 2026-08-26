@@ -45,9 +45,15 @@ A comprehensive, chronological itinerary of your curated Fringe shows for this S
 * **Synopsis:** An entirely spontaneous musical created completely from scratch on the spot using audience suggestions.
 
 ### 🕒 17:40 - 18:40 | Parasocial Activity
-* **Venue:** Gilded Balloon Patter House
+* **Venue:** Pleasance Courtyard
 * **Genre:** Dark Comedy
 * **Synopsis:** A sharp, unsettling solo show following a lonely actor falling into an obsessive, tech-fueled delusion about marrying James McAvoy.
+
+
+## 🕒 18:30 - 19:30 | A Better Memory
+* **Venue:** Gilded Balloon Patter House
+* **Genre:** Dark Comedy
+* **Synopsis:** ai with heartfelt, darkly comic exploration of memory, forgiveness and the human experience
 
 ### 🕒 18:30 - 19:30 | Larry Dean
 * **Venue:** Pleasance Courtyard

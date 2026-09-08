@@ -1,9 +1,18 @@
 {
   "generatedFrom": "munros/*.md",
-  "generatedAt": "2026-09-08T20:51:23.957Z",
-  "completedCount": 65,
+  "generatedAt": "2026-09-08T22:06:46.966Z",
+  "completedCount": 66,
   "totalMunros": 282,
   "completedMunros": [
+    {
+      "number": 66,
+      "name": "Càrn a' Choire Bhòidheach",
+      "slug": "carn-a-choire-bhoidheach",
+      "recordPath": "munros/carn-a-choire-bhoidheach.md",
+      "dateCompleted": "2026-09-02",
+      "rating": 4,
+      "companionsText": "solo"
+    },
     {
       "number": 65,
       "name": "Lochnagar",

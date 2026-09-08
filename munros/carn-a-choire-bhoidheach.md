@@ -48,4 +48,4 @@ Mist down. Nothing to see. My first munro with no view?
 
 ### Route
 
-![Route photo](..\images\lochnagar\route.png)
+![Route photo](../images/lochnagar/route.png)

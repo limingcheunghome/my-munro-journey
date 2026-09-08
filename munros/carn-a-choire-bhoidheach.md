@@ -30,9 +30,13 @@ After a brief stop to note there was nothing to see, it was a quick head back. I
 
 Trying to bound down quickly intentionally using my ankles more to control descent as an experiment. Seem to work nicely. Bit slow on the slab descent and some rocky bits.
 
-Back at the bealach at the bottom of the slabs the sun tried to come out! It was gone before the picnic was fully out. So off it was again to beat the sunset.
+Back at the bealach at the bottom of the slabs the sun tried to come out! 
 
-Plan: How will I complete the remaining 3 White Mounth Munros?
+![bealach](../images/carn-a-choire-bhoidheach/return.jpg)
+
+It was gone before the picnic was fully out. So off it was again to beat the sunset.
+
+Plan: How will I complete the remaining 3 White Mounth Munros? Two more trips - Broadcairn+1 from Loch Muick and Càrn an t-Sagairt Mòr from Auchallater. 
 
 Note to self: 1. It is worth getting up early for a mountain view! 2. Don't take short cuts into the mist! 3. Two hours to bealach to the corrie and before the slabs - maybe worth short stroll - maybe up Meikle Pap!
 

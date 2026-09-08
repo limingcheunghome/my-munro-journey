@@ -6,9 +6,9 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ## Progress
 
-**Completed: 65 / 282**
+**Completed: 66 / 282**
 
-**Remaining: 282 - 65 = 217**
+**Remaining: 282 - 66 = 216**
 
 ---
 
@@ -16,6 +16,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 | # | Munro | Date | Rating | Companions |
 |---|---|---|---|---|
+| 66 | [Càrn a' Choire Bhòidheach](munros/carn-a-choire-bhoidheach.md) | 2026-09-02 | 4 / 10 | solo |
 | 65 | [Lochnagar](munros/lochnagar.md) | 2026-09-02 | 8 / 10 | solo |
 | 64 | [Beinn Dearg (Blair Atholl)](munros/beinn-dearg-blair-atholl.md) | 2026-07-18 | 7 / 10 | Stuart |
 | 63 | [Beinn Dubhchraig](munros/beinn-dubhchraig.md) | 2026-07-14 | 6 / 10 | Darryl |
@@ -96,7 +97,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 
 ## Remaining Munros
 
-217 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.
+216 Munros to go. See the [munros/](munros/) folder for individual records as they are completed.
 
 ---
 

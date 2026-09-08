@@ -43,6 +43,7 @@ Clouds were gathering. Speed had to be picked up. Big cairn passed. Turns out it
 Lunch in the sheltered spot. Two walkers spotted a 'snow bunting' - little bird - which distracted from what I later realised was a brief clearance to see the view to Loch nan Eun and perhaps the next munro.
 
 ![snow bunting](../images/lochnagar/snowbunting.jpg)
+![the next munro .. just](../images/lochnagar/lunch.jpg)
 
 The review of the next munro by other walker was that it is uneventful and not impressive. Given this information, it seemed a good idea to get this ticked off so I can focus on the southern White Mounth in my next trip up. 
 

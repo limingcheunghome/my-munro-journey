@@ -1,9 +1,18 @@
 {
   "generatedFrom": "munros/*.md",
-  "generatedAt": "2026-07-20T23:49:17.793Z",
-  "completedCount": 64,
+  "generatedAt": "2026-09-08T20:51:23.957Z",
+  "completedCount": 65,
   "totalMunros": 282,
   "completedMunros": [
+    {
+      "number": 65,
+      "name": "Lochnagar",
+      "slug": "lochnagar",
+      "recordPath": "munros/lochnagar.md",
+      "dateCompleted": "2026-09-02",
+      "rating": 8,
+      "companionsText": "solo"
+    },
     {
       "number": 64,
       "name": "Beinn Dearg (Blair Atholl)",

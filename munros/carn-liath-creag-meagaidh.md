@@ -36,7 +36,7 @@ Amazing first for 2026 - star day reminding me why I love the hills! Sun and gra
 ---
 
 ## Photos
-
+![Chilling](../images/carn-liath-creag-meagaidh/chilling.jpg)
 ### Route
 
 ![Route photo](../images/carn-liath-creag-meagaidh/route.jpg)

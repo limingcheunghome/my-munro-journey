@@ -9,7 +9,7 @@
 
 | Field | Value |
 |-------|-------|
-| Date completed | 2026-05-20 |
+| Date completed | 2026-06-20 |
 | Completion number | 62 |
 | Weather | sunny, cloudy, windy |
 | Rating | 9 / 10 |
@@ -37,7 +37,9 @@ Fords, Summit lunches, red squirrels - amazing day .. too many moments!
 ---
 
 ## Photos
-
+![wading](../images/glas-tulaichean/wade.jpg)
+![rest](../images/glas-tulaichean/scones.jpg)
+![rest](../images/glas-tulaichean/squirrels.jpg)
 ### Route
 
 ![Route photo 1](../images/glas-tulaichean/route1.jpg)

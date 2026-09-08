@@ -20,7 +20,7 @@ A personal record of my journey to complete all 282 Scottish Munros.
 | 65 | [Lochnagar](munros/lochnagar.md) | 2026-09-02 | 8 / 10 | solo |
 | 64 | [Beinn Dearg (Blair Atholl)](munros/beinn-dearg-blair-atholl.md) | 2026-07-18 | 7 / 10 | Stuart |
 | 63 | [Beinn Dubhchraig](munros/beinn-dubhchraig.md) | 2026-07-14 | 6 / 10 | Darryl |
-| 62 | [Glas Tulaichean](munros/glas-tulaichean.md) | 2026-05-20 | 9 / 10 | Darryl |
+| 62 | [Glas Tulaichean](munros/glas-tulaichean.md) | 2026-06-20 | 9 / 10 | Darryl |
 | 61 | [An Socach (Braemar)](munros/an-socach-braemar.md) | 2026-05-23 | 7 / 10 | solo |
 | 60 | [Beinn Bhuidhe](munros/beinn-bhuidhe.md) | 2026-05-16 | 6 / 10 | Stuart |
 | 59 | [Càrn Liath (Creag Meagaidh)](munros/carn-liath-creag-meagaidh.md) | 2026-05-09 | 9 / 10 | Darryl |
